@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f2ef;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 400px;
+  background: #fff;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px gray;
+}
+input, textarea {
+  width: 95%;
+  margin: 5px 0;
+  padding: 8px;
+}
+button {
+  background: #0077b5;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.navbar {
+  background: #0077b5;
+  color: white;
+  padding: 10px;
+  text-align: right;
+}
+.post {
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+}
